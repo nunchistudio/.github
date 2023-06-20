@@ -1,16 +1,18 @@
 Hey! 👋
 
-I'm Loïc, a freelance senior software and platform engineer. I mostly code in Go,
-and I really enjoy building Cloud Platforms and Data Planes.
+I'm Loïc, a freelance senior software and platform engineer.
 
-With the help of [the community](https://discord.gg/aG3DFNS5vQ) and
-[sponsors](https://github.com/sponsors/nunchistudio), Nunchi is an organization
-designing, building, and maintaining open source projects to help engineering
-teams deliver consistent, reliable, and scalable Cloud Platforms and Data Planes.
+After building and maintaining Data Planes and Cloud Platforms at scale for some
+organizations, I've decided to come with the most elegant solution possible to
+automate recurring work, while still allowing other engineers and companies to
+benefit from it.
 
-You can join our community on:
-- [Discord](https://nunchi.studio/discord)
+Nunchi is the organization I publish my professional work on. I hope it makes
+your development a bit easier!
+
+If you have any question, feel free to send me an email at <loic@nunchi.studio>.
+🙂
+
+You can also follow Nunchi on:
 - [Twitter](https://twitter.com/nunchistudio)
 - [LinkedIn](https://www.linkedin.com/company/nunchistudio/)
-
-If you have any question, feel free to send me an email at loic@nunchi.studio. 🙂

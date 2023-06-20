@@ -4,4 +4,4 @@ allowRevertCommits: true
 
 types:
   - "docs"
-  - "sponsors"
+  - "refactor"

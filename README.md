@@ -5,4 +5,4 @@ organization.
 
 ## License
 
-Repository licensed under the [MIT](./LICENSE).
+Repository licensed under the [MIT License](./LICENSE.md).
